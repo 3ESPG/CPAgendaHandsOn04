@@ -1,6 +1,6 @@
 # 📅 Agenda Console — Gerenciador de Compromissos com Timezone
 
-> Projeto acadêmico desenvolvido para a disciplina de programação da FIAP.
+> Projeto acadêmico desenvolvido para a disciplina C# Software Development.
 
 ---
 
